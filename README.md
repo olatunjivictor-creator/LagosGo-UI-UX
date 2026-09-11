@@ -1,29 +1,45 @@
-# LagosGo — Ride Booking App
+# LagosGo
 
 ## Overview
-LagosGo is a self-initiated UI/UX concept for a simple ride-booking mobile app designed for users in Lagos.
 
-## Problem
-Getting a ride can feel stressful when users have to deal with unclear destinations, uncertain prices, and too many steps before booking.
+LagosGo is a self-initiated UI/UX concept for a simple ride-booking experience designed around the everyday transportation needs of Lagos commuters.
 
-## Goal
-Create a clear and simple booking flow that helps users choose a destination, compare ride options, confirm payment, and track their driver.
+The project focuses on creating a clear and straightforward journey from choosing a destination to confirming a ride and tracking the driver.
 
-## Screens
-- Home
-- Destination Search
-- Choose Your Ride
-- Confirm Your Ride
-- Driver Tracking
+## Project Goals
+
+- Create a simple ride-booking flow
+- Make important information easy to understand
+- Reduce unnecessary steps during booking
+- Maintain a consistent and approachable visual design
+
+## Design Process
+
+The project covers the main user journey:
+
+1. Home
+2. Destination Search
+3. Choose Your Ride
+4. Confirm Your Ride
+5. Driver Tracking
 
 ## Design Approach
-- Simple navigation
-- Clear information
-- Consistent visual design
+
+**Simple Navigation**  
+A straightforward booking journey helps users move from destination selection to ride confirmation.
+
+**Clear Information**  
+Important details such as ride type, price, payment method, and driver information are presented clearly.
+
+**Visual Consistency**  
+Consistent colors, typography, buttons, spacing, and cards create a cohesive experience.
 
 ## Tools
+
 - Canva
 - UI/UX Design
+- User Flow
 
 ## Project Type
-Self-initiated concept project
+
+**Self-Initiated Concept Project**
